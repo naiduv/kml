@@ -17,11 +17,11 @@
 		</Placemark>
 		<Style id='poly-000000-1-76'>
 			<LineStyle>
-				<color>ff000000</color>
+				<color>ff4C8c9566</color>
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>4C000000</color>
+				<color>4C4C8c9566</color>
 				<fill>1</fill>
 				<outline>1</outline>
 			</PolyStyle>
